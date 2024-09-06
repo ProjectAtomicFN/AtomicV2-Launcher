@@ -1,4 +1,4 @@
-![Banner](https://media.discordapp.net/attachments/1279195590361747607/1279502389392707614/image.png?ex=66d4acf5&is=66d35b75&hm=90ab918d6ec5d2b4646fd11bae25575bf7f201a973aec41b2ecaf45f2e2615cb&=&format=webp&quality=lossless&width=1375&height=478)
+![Banner](https://cdn.discordapp.com/attachments/1279195590361747607/1281669548671504559/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313237393139353539303336313734373630372f313237393530323338393339323730373631342f696d6167652e706e673f65783d36366434616366352669733d.webp?ex=66dc8f48&is=66db3dc8&hm=657afa3380e05e4a69953efa0c9823ba72c7ff1fb5baed16b1b9ddcd1c4acfff&)
 
 ![Size](https://img.shields.io/github/repo-size/VoxyB89/Reliactyl-2.0?label=Size&style=for-the-badge)
 ![Visits](https://komarev.com/ghpvc/?username=ProjectAtomicFN&style=for-the-badge)
